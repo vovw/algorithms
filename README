@@ -1,4 +1,11 @@
 implemenation of various algortims
 
+[x] backpropagation.py
+[] vae.py
+[] vit.py
+[] cnn.py
+[] diffusion.py
+[] gan.py
+[] transformer.py
 
 for educational purposes only
