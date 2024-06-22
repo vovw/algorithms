@@ -1,4 +1,4 @@
-implemenation of various algortims
+implemenation of various algortims/papers
 
 [x] transformer.py
 [x] backpropagation.py
@@ -9,3 +9,4 @@ implemenation of various algortims
 [] gan.py
 
 for educational purposes only
+(not like you can do much with this)
